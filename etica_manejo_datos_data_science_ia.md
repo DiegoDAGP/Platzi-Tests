@@ -24,46 +24,50 @@
 
    Adicciones y ataques emocionales.
 
-7. ¿Cuál es reglamento de protección de datos que debes tomar en cuenta en Europa?
+7. ¿A qué tipo de personas se puede prestar la manipulación del voto en campañas políticas?
+
+   Personas sin una orientación política definida.
+
+8. ¿Cuál es reglamento de protección de datos que debes tomar en cuenta en Europa?
 
    GDPR.
 
-8. Las empresas están obligadas a tener opciones alternativas en caso de que un empleado no quiera ceder su información biométrica para el acceso. Esto es:
+9. Las empresas están obligadas a tener opciones alternativas en caso de que un empleado no quiera ceder su información biométrica para el acceso. Esto es:
 
    Verdadero
 
-9. La falta de estandarización de un protocolo ante la pandemia es un ejemplo de dilema ético y de debate. Esto es:
+10. La falta de estandarización de un protocolo ante la pandemia es un ejemplo de dilema ético y de debate. Esto es:
 
    Verdadero
 
-10. ¿Es posible definir la persona heredera de nuestras redes sociales?
+11. ¿Es posible definir la persona heredera de nuestras redes sociales?
 
     Sí, hay una opción dentro de las redes sociales donde podemos elegir la persona heredera.
 
-11. Un reto actual en el procesamiento de lenguaje natural es:
+12. Un reto actual en el procesamiento de lenguaje natural es:
 
     Que tenga una emoción o identidad.
 
-12. Completa la frase. Las políticas públicas
+13. Completa la frase. Las políticas públicas
 
     Vienen del Estado.
 
-13. ¿Cuál es una característica en el análisis de la información?
+14. ¿Cuál es una característica en el análisis de la información?
 
     Puede ayudar a encontrar dilemas y oportunidades sociales.
 
-14. Para prevenir un crimen, ¿de qué o quiénes pueden estudiarse patrones de su información?
+15. Para prevenir un crimen, ¿de qué o quiénes pueden estudiarse patrones de su información?
 
     Todas las opciones aplican.
 
-15. Con un buen monitoreo de datos corporales/físicos puedes prevenir enfermedades e incluso la muerte. Esto es:
+16. Con un buen monitoreo de datos corporales/físicos puedes prevenir enfermedades e incluso la muerte. Esto es:
 
     Verdadero
 
-16. Las aplicaciones de movilidad facilitan la integración social sugiriendo recorridos hacia todas las zonas sin distinción. Esto es:
+17. Las aplicaciones de movilidad facilitan la integración social sugiriendo recorridos hacia todas las zonas sin distinción. Esto es:
 
     Falso
 
-17. ¿Cómo se llaman las ciudades que usan la tecnología en su núcleo para mejorar su desarrollo?
+18. ¿Cómo se llaman las ciudades que usan la tecnología en su núcleo para mejorar su desarrollo?
 
     Smart City
